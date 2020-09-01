@@ -21,6 +21,8 @@ salesforce
 tunukiwa
 platinum
 postpay
+stori
+imbambe
 zuri
 bonga
 okoa
