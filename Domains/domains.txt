@@ -38,3 +38,6 @@ cheki
 nyumba
 nyumbani
 agent
+agents
+m-pesa
+fuliza
